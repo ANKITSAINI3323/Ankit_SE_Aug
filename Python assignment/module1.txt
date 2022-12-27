@@ -1,0 +1,21 @@
+ What is Software?
+->the programs and other operating information used by a computer.
+
+ What are the types of Applications?
+->Some types of applications include:
+Word processors.
+Database programs.
+Web browsers.
+Deployment tools.
+Image editors.
+Communication platforms.
+
+ What is programing?
+->Programming is creative ; Sequence:
+ running instructions in order ;
+ Selection: making choices ; 
+Repetition: doing the same thing more than once, also called ...
+
+ What is Python?
+->Python is a high-level, general-purpose programming language.
+ Its design philosophy emphasizes code readability with the use of significant indentation.
