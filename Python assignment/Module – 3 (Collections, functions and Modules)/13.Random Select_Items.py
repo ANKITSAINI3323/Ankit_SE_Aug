@@ -10,5 +10,5 @@ print(random.choice(fruits_list))
 
 import random
 
-my_list = [13, 'jay', 34, 'urvashi', 'moin', 19]
+my_list = [13, 'ankit', 34, 'saini', 'mohit', 19]
 print(random.choice(my_list))
