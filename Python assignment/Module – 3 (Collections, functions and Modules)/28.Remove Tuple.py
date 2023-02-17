@@ -12,6 +12,6 @@ def Remove(tuples):
     return tuples
  
 
-tuples = [(), ('jay','13','9'), (), ('vishavam', 'twinkle'),
-          ('urvashi', 'moin', '45'), ('',''),()]
+tuples = [(), ('Ankit','13','9'), (), ('kumar', 'sangeeta'),
+          ('gourav', 'mohit', '45'), ('',''),()]
 print(Remove(tuples))

@@ -2,13 +2,13 @@
 
 # Convert a Tuple to a String :1
 
-t = ("Jay","Vishavam","Twinkle")
+t = ("ankit","Rahul","Mohit")
 
 x = str(t)
 print(x)
 
 # Join a Tuple to a String :
 
-tuple = ('J', 'a', 'y'," ", 'G', 'o', 'h', 'i', 'l')
+tuple = ('A', 'n', 'k','i','t', " ", 'S', 'a', 'i', 'n', 'i')
 str =  "".join(tuple)
 print(str)

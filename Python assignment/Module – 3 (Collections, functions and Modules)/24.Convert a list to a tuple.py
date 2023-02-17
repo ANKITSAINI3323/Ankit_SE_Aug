@@ -1,6 +1,6 @@
 # 1). Write a Python program to convert a list to a tuple. 
 
-list1 = ["jay","urvashi","moin","kaushal"]
+list1 = ["Ankit Saini","mohit","jayant","navya"]
 
 print(list1)
 
