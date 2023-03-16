@@ -6,7 +6,7 @@ def create_note():
     note_content = input("Enter note content: ")
     
     with open('notes.txt', 'a') as f:
-        f.write(note_title + '\n' + note_content + '\n')
+        f.write( note_title + '\n' + note_content + '\n')
     print("Note added successfully!")
 
 
@@ -25,9 +25,9 @@ def view_notes():
 
 
 def display_menu():
-    print("                     ")
+    print("")
     print("\t\t welcome to E-Note Book")
-    print("                     ")
+    print("")
     print("\t\tE-Note Book Console-based Application")
     print("\t\tPress 1 for Generate note")
     print("\t\tPress 2 for View note")
