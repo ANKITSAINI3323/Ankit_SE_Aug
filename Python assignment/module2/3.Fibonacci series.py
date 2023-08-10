@@ -29,5 +29,8 @@ def fibonacii (n):
         print(b)
         a,b = b,a+b 
 
-n = int(input("Enter The no"))       
+n = int(input("Enter The no :"))       
 fibonacii(n)
+
+
+
